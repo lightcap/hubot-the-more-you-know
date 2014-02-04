@@ -1,8 +1,8 @@
-# Hubot Example
+# The More You Know Hubot Script
 
 An example script package for Hubot
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
+[![Build Status](https://circleci.com/gh/lightcap/hubot-the-more-you-know.png?circle-token=91821973fcec9a83df09961b7bc6e7573c09d2c0)](https://circleci.com/gh/lightcap/hubot-the-more-you-know)
 
 ## Directory Structure
 
