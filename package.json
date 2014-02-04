@@ -1,8 +1,8 @@
 {
-  "name": "hubot-example",
-  "description": "An example script pacakage for Hubot",
+  "name": "the-more-you-know",
+  "description": "The More You Know Hubot Script",
   "version": "1.0.0",
-  "author": "Tom Bell <tomb@tomb.io>",
+  "author": "Matt Kern <matt@thekerns.net>",
   "license": "MIT",
 
   "keywords": [
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-example.git"
+    "url": "git://github.com/lightcap/hubot-the-more-you-know.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+    "url": "https://github.com/lightcap/hubot-the-more-you-know/issues"
   },
 
   "dependencies": {
