@@ -7,7 +7,6 @@ expect = chai.expect
 describe 'the-more-you-know', ->
   beforeEach ->
     @robot =
-      respond: sinon.spy()
       hear: sinon.spy()
 
     require('../src/the-more-you-know')(@robot)
