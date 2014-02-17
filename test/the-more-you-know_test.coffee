@@ -13,4 +13,4 @@ describe 'the-more-you-know', ->
     require('../src/the-more-you-know')(@robot)
 
   it 'registers a hear listener', ->
-    expect(@robot.hear).to.have.been.calledWith(/the more you know/)
+    expect(@robot.hear).to.be.calledWith(/the more you know/i)
